@@ -27,7 +27,7 @@ order: 4
 ---
 
 ## 🌍 Language Matrix  
-```text
+
 Uzbek    : ██████████ [Native]  
 English  : ████████░░ [Fluent]  
 Korean   : ████░░░░░░ [Intermediate]
